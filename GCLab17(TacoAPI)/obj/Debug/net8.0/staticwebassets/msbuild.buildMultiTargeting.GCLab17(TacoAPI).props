@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GCLab17(TacoAPI).props" />
+</Project>

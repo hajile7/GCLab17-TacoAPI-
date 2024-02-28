@@ -1,0 +1,6 @@
+@GCLab17_TacoAPI__HostAddress = http://localhost:5012
+
+GET {{GCLab17_TacoAPI__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
